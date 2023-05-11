@@ -1,23 +1,23 @@
 
 
-<h1 align="center">¡Hello 👋, I'm Fer! </h1>
+<h1 align="center">¡Hola 👋, Soy Fer! </h1>
 
 <h2 align="center">
 🚀 Web Full Stack developer<br/> 
-🌎from <mark> &nbsp;Cordoba, Argentina&nbsp;</mark> 
+🌎 De <mark> &nbsp;Cordoba, Argentina&nbsp;</mark> 
 </h2>
 
-## About me 
+## Sobre mi 
 
-- 🙍‍♀️ I'm a curious person who is pasionate for tecnology and nature 
-- 💻I'm a quick learner who is always eager to take on new projects and challenges.
-- 🌱 currently **learning typescript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /> and looking for my first job as a developer 👋
+- 🙍‍♀️ Soy una persona curiosa y apasionada por la tecnología y la naturaleza. 
+- 💻Aprendo rápido y siempre con ganas de emprender nuevos proyectos y retos.
+- 🌱 actualmente **aprendiendo typescript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /> y buscando mi primer trabajo como desarrollador 👋
 
-- 📫 contact me **m.ferromay@gmail.com**
+- 📫 contactame: **m.ferromay@gmail.com**
 
 
 
-<h3 align="left"> 📎 For more :</h3>
+<h3 align="left"> 📎 Mas info :</h3>
 <p align="left">
 
 <a href="https://wa.me/+543513053755" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/whatsapp-3.svg" width="40" /></a>
@@ -28,7 +28,7 @@
 
 
 
-<h1 align="center">Technologies, Frameworks and others... </h1>
+<h1 align="center">Tecnologias, Frameworks y otros... </h1>
 
 
 <div>  
@@ -50,6 +50,28 @@
 
 <img align="center" style="margin: 20px " src="https://github-readme-stats.vercel.app/api?username=ferromayy&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" />
 <br>
+
+<h1 align="center"></h1>
+<h1 align="center">Proyectos</h1>
+
+##  Proyecto individual <a href="https://pi-countries-cyan.vercel.app/Home">Countries</a>
+
+Desarrolle una pagina web sobre los países del mundo.
+Tuve que realizar un paginado, y al hacer click en la carta de cada pais, se muestran los detalles de cada uno. Realice distintos filtros, abecedario de a-z y z-a, país con mayor población a menor población, y también lo contrario, por continente, y por actividad. Las actividades son información que no se encontraba dentro de la api que utilice, razón por la cual, tuve que crear un formulario en donde el usuario puede crear la actividad que quiera, relacionada con algún país. 
+
+las tecnologías que utilice son: Javascript, React,js, Redux.js, Sequelize, Postgres, CSS
+
+
+## Proyecto grupal <a href="https://coder-game.vercel.app/">CoderGame</a>
+
+Es el proyecto mas amplio en el que he participado, es la simulación de un Marketplace, en donde simulo una tienda de videojuegos, con distintas funcionalidades para usuarios y administrador, tales como: 
+
+
+- `Funcionalidad 1`: Se creo un sistema de logueo local con Auth0. 
+- `Funcionalidad 2`: Se manejan compras reales, permitiendo al usuario añadir a un carrito y comprar saldo por medio de Stripe. 
+- `Funcionalidad 3`: se manejan opciones de administrador, bloqueo de usuarios, manejo de estadisiticas, creación y modificación de productos y de usuarios, entre otros.
+
+
 
 
 
