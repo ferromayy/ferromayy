@@ -4,7 +4,7 @@
 
 <h2 align="center">
 🚀 Web Full Stack developer<br/> 
-🌎 De <mark> &nbsp;Cordoba, Argentina&nbsp;</mark> 
+🌎 En <mark> &nbsp;Cordoba, Argentina&nbsp;</mark> 
 </h2>
 
 ## Sobre mi 
