@@ -54,21 +54,12 @@
 <h1 align="center"></h1>
 <h1 align="center">Proyectos</h1>
 
-##  Proyecto individual <a href="https://youtu.be/9xDd9WSyUNs">Global Market</a>
+##  Proyecto individual <a href="https://youtu.be/60HghDKfVxs">Global Market</a>
 
 Desarrolle una pagina web sobre los países del mundo.
 Tuve que realizar un paginado, y al hacer click en la carta de cada pais, se muestran los detalles de cada uno. Realice distintos filtros, abecedario de a-z y z-a, país con mayor población a menor población, y también lo contrario, por continente, y por actividad. Las actividades son información que no se encontraba dentro de la api que utilice, razón por la cual, tuve que crear un formulario en donde el usuario puede crear la actividad que quiera, relacionada con algún país. 
 
 las tecnologías que utilice son: Javascript, React,js, Redux.js, Sequelize, Postgres, CSS
-
-
-##  Proyecto individual <a href="https://youtu.be/m0IdfXW7nZQ">Countries</a>
-
-Desarrolle una pagina web sobre los países del mundo.
-Tuve que realizar un paginado, y al hacer click en la carta de cada pais, se muestran los detalles de cada uno. Realice distintos filtros, abecedario de a-z y z-a, país con mayor población a menor población, y también lo contrario, por continente, y por actividad. Las actividades son información que no se encontraba dentro de la api que utilice, razón por la cual, tuve que crear un formulario en donde el usuario puede crear la actividad que quiera, relacionada con algún país. 
-
-las tecnologías que utilice son: Javascript, React,js, Redux.js, Sequelize, Postgres, CSS
-
 
 ## Proyecto grupal <a href="https://youtu.be/lItZSRBpo7o">CoderGame</a>
 
@@ -80,7 +71,9 @@ Es el proyecto mas amplio en el que he participado, es la simulación de un Mark
 - `Funcionalidad 3`: se manejan opciones de administrador, bloqueo de usuarios, manejo de estadisiticas, creación y modificación de productos y de usuarios, entre otros.
 
 
+##  Proyecto individual <a href="https://youtu.be/m0IdfXW7nZQ">Countries</a>
 
+Desarrolle una pagina web sobre los países del mundo.
+Tuve que realizar un paginado, y al hacer click en la carta de cada pais, se muestran los detalles de cada uno. Realice distintos filtros, abecedario de a-z y z-a, país con mayor población a menor población, y también lo contrario, por continente, y por actividad. Las actividades son información que no se encontraba dentro de la api que utilice, razón por la cual, tuve que crear un formulario en donde el usuario puede crear la actividad que quiera, relacionada con algún país. 
 
-
-
+las tecnologías que utilice son: Javascript, React,js, Redux.js, Sequelize, Postgres, CSS
