@@ -11,7 +11,7 @@
 
 - 🙍‍♀️ Soy una persona curiosa y apasionada por la tecnología y la naturaleza. 
 - 💻Aprendo rápido y siempre con ganas de emprender nuevos proyectos y retos.
-- 🌱 Actualmente **aprendiendo typescript** <img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /> y buscando mi primer trabajo como desarrollador 👋
+- 🌱 Actualmente como Chief Technology Officer en Duo0 👋
 
 - 📫 Contactame: **m.ferromay@gmail.com**
 
